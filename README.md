@@ -89,7 +89,7 @@
 4. **Run the app**
 
    ```bash
-   streamlit run frontend/dashboard.py
+   streamlit run app.py
    ```
 
 ---
